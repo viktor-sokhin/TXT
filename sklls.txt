@@ -1,0 +1,1 @@
+Some of the technologies learned in the course: GitHub, Postman, Dev Tools, Charles, Android Studio, SQL. 
